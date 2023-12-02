@@ -1,6 +1,4 @@
 # pymacetuticals
-Repository for Monash University Bootcamp Module 5
-
 ## File structure
 - data: directory including CSV files as provided with the assignment
 - report/report.ipynb: Jupyter notebook used to analyse the data and present the results
